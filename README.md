@@ -362,14 +362,21 @@ python evaluate.py
 FINAL MULTI-VIEW RESULTS SUMMARY
 ======================================
 
-000° : Rank-1 = XX.XX% | Rank-5 = XX.XX%
-018° : Rank-1 = XX.XX% | Rank-5 = XX.XX%
-...
-180° : Rank-1 = XX.XX% | Rank-5 = XX.XX%
+000° : Rank-1 = 24.00% | Rank-5 = 64.00%
+018° : Rank-1 = 44.00% | Rank-5 = 76.00%
+036° : Rank-1 = 54.00% | Rank-5 = 80.00%
+054° : Rank-1 = 60.00% | Rank-5 = 84.00%
+072° : Rank-1 = 90.00% | Rank-5 = 98.00%
+090° : Rank-1 = 98.00% | Rank-5 = 100.00%
+108° : Rank-1 = 96.00% | Rank-5 = 100.00%
+126° : Rank-1 = 92.00% | Rank-5 = 100.00%
+144° : Rank-1 = 76.00% | Rank-5 = 94.00%
+162° : Rank-1 = 48.00% | Rank-5 = 80.00%
+180° : Rank-1 = 26.00% | Rank-5 = 64.00%
 
 --------------------------------------
-Average Rank-1 Accuracy : XX.XX%
-Average Rank-5 Accuracy : XX.XX%
+Average Rank-1 Accuracy : 64.36%
+Average Rank-5 Accuracy : 85.45%
 --------------------------------------
 ```
 
